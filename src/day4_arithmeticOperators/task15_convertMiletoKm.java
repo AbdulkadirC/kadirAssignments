@@ -1,0 +1,16 @@
+package day4_arithmeticOperators;
+
+public class task15_convertMiletoKm {
+
+	public static void main(String[] args) {
+		
+		double mile, km;
+		mile= 90;
+		km = mile*1.609344;
+		
+		System.out.println(mile + " mile" + " is equal to " + km + " km");
+		
+
+	}
+
+}
