@@ -24,6 +24,7 @@ Specify the seating order as the names separated by commas and space (as in the 
 		String name4 = "Herb";
 		String name5 = "Jill";
 		
+		String name6 = "Kadir";
 		
 		
 		

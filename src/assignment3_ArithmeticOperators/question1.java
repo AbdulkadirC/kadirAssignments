@@ -6,7 +6,8 @@ public class question1 {
 		
 		double gallon, liter;
 		gallon = 15;
-		liter = 56.7812;
+		liter = gallon * 3.78;
+		
 		
 		System.out.println(gallon + " gallon is " + liter + " liter");
 		
